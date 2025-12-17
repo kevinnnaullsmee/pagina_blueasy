@@ -293,6 +293,7 @@
     font-size: 14px;
 }
 
+/* MEDIA QUERIES EXACTAMENTE IGUALES QUE LAS QUE ME PASASTE */
 @media(max-width:1279px){
     .grid-imagenes{
         grid-template-columns:  270px 270px 270px;
